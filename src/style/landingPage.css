@@ -1,0 +1,25 @@
+body {
+  color: #e9c261;
+}
+
+.navigationBar {
+  background: #b9573b;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background: #edeae1;
+}
+
+.about {
+  background-color: #e9c261;
+}
+
+.gallery {
+  background-color: #edeae1;
+  height: max-content;
+}
+
+.contact {
+  background-color: #e9c261;
+}
